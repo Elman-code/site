@@ -1,0 +1,43 @@
+*{
+   margin: 0; 
+   padding: 0;
+   box-sizing: border-box;
+}
+header{
+    background-color: blue;
+    overflow: auto;
+    text-align: center;
+}
+li{
+    float: left;
+    margin-left: 10px;
+}
+ul{
+    list-style-type: none;
+}
+aside{
+    height:35vw;
+    width: 200px;
+    overflow: auto;
+    background-color: lightblue;
+    float: left;
+    text-align: center;
+}
+main{
+    height: 35vw;
+    width: 407px;
+    background-color: aqua;
+    float: right;
+}
+#s{
+    margin-top: 10px;
+}
+footer{
+    background-color: gray;
+    text-align: center;
+}
+article{
+    margin: 50px 1px;
+    float: left;
+    margin-left: 35px;
+}
